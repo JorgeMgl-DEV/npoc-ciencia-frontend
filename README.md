@@ -42,35 +42,7 @@ http://localhost:3000
 
 O sistema possui autenticação simulada no frontend para fins de demonstração.
 
-👨‍🏫 Professor
-Email: professor@npoc.com
-Senha: 123456
 
-
-Acesso a:
-
-Dashboard do Professor
-
-Minhas Produções
-
-Submissão de Projetos
-
-Perfil
-
-🧑‍💼 Gestor / Admin (NPOC)
-Email: admin@npoc.com
-Senha: admin123
-
-
-Acesso a:
-
-Dashboard Administrativo
-
-Aprovação / Rejeição de Trabalhos
-
-Edição de Produções
-
-Métricas por Curso
 
 Painel Geral
 
