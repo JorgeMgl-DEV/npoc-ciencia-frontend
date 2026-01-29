@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  color-scheme: light;
+}
+
+html, body{
+  height:100%;
+}
+
+body{
+  @apply bg-slate-50 text-slate-900;
+}
+
+.container-max{
+  @apply mx-auto w-full max-w-6xl px-4;
+}
+
+/* little helpers */
+.card{
+  @apply rounded-2xl bg-white shadow-soft border border-slate-100;
+}
