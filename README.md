@@ -1,1 +1,0 @@
-# npoc-ciencia-frontend
